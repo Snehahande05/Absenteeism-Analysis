@@ -1,5 +1,7 @@
 # Employee Absenteeism Streamlit App
 
+Deployed Link :- https://absenteeism-analysis-xbvkm5459u3t8tnjgjsnxh.streamlit.app/
+
 ## Run
 
 ```bash
